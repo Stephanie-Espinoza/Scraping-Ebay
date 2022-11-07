@@ -6,9 +6,11 @@ To run the ebay-dl.py program you should include a search term at the end in quo
 
 ```
 $ /usr/local/bin/python3 /Users/stephanie/Desktop/CSCI040/ebay-dl.py 'erasable pens' --num_pages=1
-
+```
+```
 $ /usr/local/bin/python3 /Users/stephanie/Desktop/CSCI040/ebay-dl.py 'camera' --num_pages=1
-
+```
+```
 $ /usr/local/bin/python3 /Users/stephanie/Desktop/CSCI040/ebay-dl.py 'notebook' --num_pages=1
 ```
 
